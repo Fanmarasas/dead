@@ -1,5 +1,5 @@
 -- Load Kavo UI Library
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/chxmp001/Chp/main/luaa.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fanmarasas/dead/refs/heads/main/luaa.lua"))()
 
 -- Create a custom theme for better visual appearance
 local CustomTheme = {
